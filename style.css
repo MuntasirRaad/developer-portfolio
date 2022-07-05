@@ -9,7 +9,7 @@ h1{
 .no-1{
     color: coral;
 }
-section{
+.flexible{
     display: flex;
 }
 .no-2{
@@ -33,4 +33,22 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
     
+}
+.adds{
+    display: flex;
+}
+.add-1{
+    border-radius: 15px;
+    width: 40%;
+    margin: 60px;
+    padding: 2%;
+    box-shadow: 10px 10px 30px rgb(165, 136, 136);
+    border-left: 7px solid cornflowerblue;
+    
+}
+footer{
+    text-align: center;
+}
+.add-5{
+    text-align: justify;
 }
